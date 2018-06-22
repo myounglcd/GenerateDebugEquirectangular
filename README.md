@@ -5,4 +5,4 @@ Output should look like this..
 
 ![equirectangular image](/image.png)
 
-######Note this is my first go program
+###### Note this is my first go program
